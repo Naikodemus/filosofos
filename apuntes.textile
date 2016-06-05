@@ -1,0 +1,418 @@
+
+h1. Apuntes
+
+bq. el inicio de la Ilustración Hobbes y Locke
+
+
+h2. ILUSTRACIÓN: utilitarismo, marxismo, contrato social
+
+	propositions from the human will vs. las que no human will
+	>> will-dependant propositions !!
+
+h3. Utilitarismo :: pleasure maximizing
+
+comprehensive and deterministics
+	- explain everything in a deterministic way
+	- todo & non-freedom (pleasure + pain)
+
+naturalistic
+	- natural constitution of the human brain (que no las leyes naturales a lo Locke)
+	- need of survival
+
+egoistic theory (pero no subjetivista)
+	- invidividual selfgain (not as groups)
+	- objective scientific principles
+	- contradice a Locke porque su determinismo invalida el "no hay nadie que te diga..."
+
+radical consecuentialist
+	- sólo evaluamos las acciones en realación a su consecuencia; el sufrimiento/placer es comparable entres seres.
+	- all we are interested is in consequences
+
+la utilidad es cuentificable
+	- we can do the math
+	- intensidad del dolor no. Lo demás sí:
+		. duración
+		. probabilidad
+		. proyección en el tiempo (cambio del valor)
+
+
+:: diminishing marginal utility
+
+
+h3. Bentham := greatest happiness of the greatest number
+		(pero también significa incremento total)
+
+	- eficiencia → panóptico
+	- why do we need Government?
+		invididual utility vs. social utility
+		free rider problem: if you can avoid paying for something you will
+			(market failure)
+		Gov. is needed for avoiding free riders.
+
+
+h4. diminishing marginal utility vs. loss aversion
+	ICU : interpersonal comparison utility
+
+	redistribución!
+
+	Practical Equality vs. Absolute Equality.
+		fear :: loss aversion :: destruction of rich's wealth by them
+		redistribution turns not practical at a certain point
+
+
+The utility monster problem
+	:: the Eichmann problem
+
+The happiness machine
+	:: visceral arachment to personal autonomy
+
+
+Personal motivation us critital to individual utility maximization,
+	∴	rights are necessary
+	∴	Gov. must defend whay we make
+
+	∵	if motivation is not there (consecuences work against)
+	∴	production is not done (we have to produce)
+
+
+bq. individual rights are key to classical utilitarianism
+
+
+
+
+h2. Neoclassical Utilitarianism: The Philosophical Context Beginning
+
+
+h3. Hume !!
+
+	fact/value problem := from "is" to "ought"
+	similarity between person's preferences
+
+
+h3.	Logical positivism
+
+	A.J. Ayer [emotivism := ethics hurra/boo theory]
+		a/	analitical truths, 
+		b/	empirical truths,
+		c/	nonsense
+		∴	no moral propositions
+	Charles Stevenson
+
+	∴ Eichmann cannot be judge (no moral propositions)
+
+[legal positivism is not logical positivism]
+
+
+h3. ARGH, ya estamos.
+
+	De aquí saltamos a la definición de política como economía...
+
+	¿Podemos entender cómo funcionan los mercados con la menor cantidad de información posible?
+
+	Se pasa de utilidad a preferencias. Se abandona Bentham. Se abandona el ICU. Es una crítica a la indeterminabilidad (no es medible) la "felicidad" de Bentham.
+
+	- Pareto :: estudio objetivo de la ética y las morales (son yay/boo).
+		"pareto superior move"
+		«there is no scientific prove for redistribution»
+			(nota personal: YET)
+
+	nota personal: en todo ésto, la transitividad es fundamental. Se supone que la racionalidad produce órdenen transitivos.
+
+	Classical Utilitarianism vs. neoclassical Utilitarianism
+		yes ICU vs. no ICU
+		neocl. → se convierte en favorable al status quo
+
+
+h3. Mill
+
+	:= Harm !!
+	:= uso de mano invisible como argumento.
+
+	«Actuar sobre un individuo es para evitar que haga daño a otros.»
+	Individualismo total...
+
+	Self-regarding actions.
+		¿Self harm?
+
+	M vs. B
+
+		M;
+		Utility es ultimate appeal only un general sense.
+		Richer view of freedom.
+
+		Freedom → Truth → Utility.
+
+		Freedom of speech;
+			concepción falible de la verdad.
+
+		We are not in the real of self-regarding actions.
+			Este es el camino por el que M. se aproxima al empleo del utilitarismo.
+
+
+	Intencionalistas vs. consecuencionalistas.
+
+	rights-utility synthesis:
+		- argument
+		- ideology
+
+
+h2. Marxism
+
+	Abut equality (en el debate freedom vs. science/rigths)
+		:: rellenar el paréntesis bien
+
+	Hay 2 Marx:
+		el joven
+		el marx "inglés"
+
+	Nos diferenciamos de los animales en que producimos nuestros medios de subsistencia, algo que no hacen los animales. Hasta aquí el idealismo. A partir de aquí, son los eventos materiales reales del mundo los que provocan lo que somos.
+
+	Método dialéctico adaptado; materialismo dialéctico, materialismo histórico.
+
+	Capital had a role for a while. Would amass a huge amount of wealth that would make socialismo and capitalism possible.
+
+	Marxism focuses on economy. Economy is the "base". Everything is derivative, epiphenomenon, "superstructure".
+
+	Freedom is the highest good, (ojo a su redistribución)... y a la alienación (exploitation), y a su workmanship ideal.
+
+	The free development of all is the condition for the free development of each.
+
+	De Locke a Marx a través del ideal de workmanship.
+
+	El comunismo como desaparición de la asignación a una sola especialización. Desaparece la división del trabajo.
+
+		NOTA YO: ésto es una proclamación de libertad (überworker).
+				 y muy distinta de poder hacer cualquier cosa porque todo está
+				 estandarizado a lo "mercadona".
+
+
+	Classical political economy: ¿where does value come?
+		¿How is value produced?
+
+	Use value & exchange value.
+
+	SNLT; social necessary labour time when demand and offer are in equilibrium.
+		Esto establece el precio de la mano de obra, pero no determina el precio de la cosa.
+
+	Fuerza de trabajo (commodity): un físico nuclear cobra más porque se invierten más recursos en _producir_ un físico nuclear que un X.
+
+	¿De dónde viene el valor de una obra de arte?
+		Un Miguel Ángel comprende todas las obras fallidas de los otro autores.
+			NOTA PERSONAL: no sé, no sé.
+		Ver: winner takes all markets.
+
+	>> That the consumption of labor power as a commodity differs from the consumption of any other commodity, in that in consuming it, in consuming your time, I buy your time to paint that house. 
+
+	El consumo de la fuerza de trabajo como valor de uso lleva a la creación de nuevo valor de cambio.
+
+		(X + fuerza de trabajo) → (Y > X);
+
+
+	La mano invisible de Marx son las consecuencias de los incentivos a la producción sobre los individuos.
+		NOTA PERSONAL: esto también es finalista, como Bentham...
+
+	Para Marx una clase-en-sí-misma es definida objetivamente en virtud de sus intereses. Una clase-para-sí-misma es la identificación subjetiva. Marx entiende que en el colapso del capitalismo hará que estas dos atribuciones se unan.
+
+		!! identity politics
+
+	Working class: trabajas para alguien más. Necesaria y suficiente. Digamos que también no puedes abandonar la clase.
+
+		Ojo: vivir del capital no es producir. Aquí está el asunto.
+
+	Los sueldos siempre tienden hacia el coste de subsistencia (que está social e históricamente condicionado). El sueldo es el coste de producir el trabajador.
+
+
+	El capitalista lo que más teme es la competencia.
+
+	Competencia + límites temporales + límites fisiológicos.
+
+		NOTA PERSONAL: La innovación es indispensable como fruto de la competencia, y de la organización interna.
+
+		!! Leyes coercitivas del mercado
+
+
+	Production will turn more capital-intensive over time (una de las consecuencias: los costes de entrada suben).
+
+		NOTA PERSONAL: Cómo se ajusta ésto a "Disney".
+
+
+	Cuando un capitalista "innova", sus beneficios suben. Cuando todos los demás han hecho (leyes coercitivas) lo mismo, su beneficio cae.
+
+		AQUÍ: crítica al capitalismo...
+			dice que la máquina no crea un aumento del valor.
+			No estoy tan seguro.
+
+	La competencia elimina competidores, que junto con el incremento de capital-intensive, produce monopolio.
+
+	El impulso de innovación (motivado por el incremento del beneficio) desaparece bajo el monopolio.
+
+	Marx cree que hay un problema de sub-consumo, porque quien produce no puede comprar lo que produce (que tiene la plusvalía ya añadida). El capitalismo tiene una "demanda débil".
+
+	El imperialismo es buscar nuevos mercados.
+
+		NOTA PERSONAL: eso se puede puede conseguir con el colonialismo financiero (charla de hoy).
+
+
+	Crisis capitalistas según Marx:
+
+		- Dinero
+			(se objeta con la entrada de *otros* bancos)
+		- Tendencia a declinar el beneficio
+			(se objeta con el traslado del capital a otra industria)
+		- Monopolios
+			(se objeta desde el intervencionismo estatal)
+				>> que es un reconocimiento del problema !!
+			(se objeta con la "the economy of smallness")
+				>> la famosa disrupción
+		- Infra-consumo
+			(se objeta con el intervencionismo keynesiano)
+				>> que es un reconocimiento del problema !!
+		- Conciencia de clase
+			(se objeta con que los trabajadores se comparan con otros trabajadores, y no con sus superiores/ejecutivos)
+				>> tema psicológico
+
+
+	¿Qué entiende Marx por "need"?
+
+	>> From each according to his ability, to each according to his need.
+
+	The 3 failures of Marx:
+
+		1/ Historical predictions were wrong.
+		2/ Teleological view *could* be right in the *very* long run.
+		3/ That we could transcend scarcity.
+			(socialism and communist results)
+
+		¿Cómo se contabiliza la explotación de quienes han fabricado las máquinas?
+			>> yo creo que ya está incluida
+
+		¿Los capitalistas no aportan acaso las ideas?
+			>> el empresario como productor intelectual
+			>> ésto puede ser interesante
+
+		Crítica feminista: divorcio tras sacarse él la carrera.
+			>> ésto nos lleva a implicaciones comunales de propiedad
+			>> o bien, a una teoría de contrato individual.
+
+
+	Sobre el argumento moral implícito en Marx,
+
+	Piero Sraffa ::
+		Undermines "only living human power dreates fresh value..."
+
+		Corn theory of value
+			>> genial contraejemplo a la unicidad del trabajo como unidad
+			>> esto revalida mi idea de la energía como base
+
+		Es una indicación de que el marxismo es una teoría moral
+			>> BIENNNN, me confirma.
+			>> human-centric
+
+		Objeción de Nozick :: ¿por qué mezclar algo que posees con algo que no te hace poseer lo segundo? (ejemplo de la sopa de tomate y el mar)
+
+
+	NOTA:
+
+		Marx coincide con Locke en la definición de la necesidad de la explotación.
+
+	UTOPIA:
+	» The goverment of persons is replaced by the administration of things.
+
+
+
+h2.	SOCIAL CONTRACT TRADITION
+
+	Base:	consentimiento
+			natural law (argumento débil)
+
+h3.	Hobbes:
+
+	- el consentimiento es lo que las personas racionalmente acordarían.
+	hay quien engaña a la common people, haciendo que no tengan claro qué es racional.
+	- el agreement es between the people to give X to a third party (no entre la people y el gobierno).
+	- in 'state of nature'... la cosa pues muy mal.
+	- morir por el estado no tiene mucho sentido.
+		si el estado/gobierno no puede protegerte, la obligación hacia el mismo, desaparece.
+	- not strictly a contract (reason does the work, not agreement)
+
+
+h3.	Locke:
+		
+	- el 'state of nature' no es tan malo, sólo ineficiente.
+	- propiedad & workmanship;
+		· aparece lo de mezclar el trabajo (propiedad) de uno con lo "natural" y entonces es del que ha trabajado.
+		· pero también habla del derecho a tomar del pro-común.
+	- we have a "use right" as long as we don't prevent others from "the common"
+		→ PERO → admite la propiedad exclusiva bajo la mayor eficiencia del uso privado (como lo entendemos hoy).
+	- defiende el concepto moderno de propiedad.
+	- asume que como mínimo quien no tenga tiene que poder acudir al "commons" para poder lo que sea...
+
+	- para Locke el contrato no extingue el derecho a resistirse.
+	- consentimiento explícito es irrevocable, pero el tácito no.
+	- you can't escape the majority except by leaving.
+	- residual right against the government.
+	- si se viola la "ley natural" tienes la obligación moral de resistir.
+		no se puede desobedecer selectivamente.
+
+
+	NOTA:	el contrato social es una *metáfora*.
+			y ojo, que llega Rawls.
+
+
+h3. Kant
+
+	>> Sobre las LEYES NATURALES.
+
+	imperativos hipotéticos aka conditional imperatives
+		IF .. THEN ..
+
+	pero las leyes tienen que ser absolutas... por lo tanto un imperativo categórico es un "unconditional must".
+
+		» "las personas son un fin en sí mismas, no medios de uso exclusivo"
+
+		Esto es violado por el utilitarismo clásico, porque se admite el sacrificio de un individuo a cambio del incremento general/mayoritario de "felicidad"; en el caso del neoclásico, impone un relativismo tan serio que no permite la intervención.
+
+
+	Si algo es universalizable es una ley. Es un intento de secularizar las leyes naturales. Pero la política depende de situaciones empíricas que no son universalizables.
+
+		NOTA PERSONAL: sólo lo racional es universalizable. Pero claro... 	lo racional no es lo universal.
+
+
+	>> Sobre el contrato como METÁFORA
+		(porque nunca ha sucedido)
+
+		Rawls :: hypothetical contract
+
+
+h3. Rawls
+
+	- Moral arbitrariness (vs. workmanship)
+		Nature vs. nurture it is not important
+			nature is just luck
+			nurture us just luck
+
+		>> "MORAL LUCK" SUBJECT
+
+		Nobody owns anything to begin with.
+
+	- Resource theorist:
+		Basic resources (income, food, etc...)
+		
+		liberty and opportunity
+		income and wealth
+		social bases of self-respect
+
+	- Deontological vs. Teleological theories.
+		Teleological post some end-state, and distribute rigts, etc to get there. But as Deep Pluralism...
+
+		» Deontological: distribute rights without a conception (or as thin as possible) of what is "good/bad", "good/bad society", etc.
+
+	- Deep pluralism
+
+		>> NOTA: siendo kantiano, su extensión (crítica al imperativo categórico) a través de la universalización con un mínimo denominador muy mínimo.
+
+	- Reflective equilibrium; equilibrio a lo Hobbes. Si sigues su razonamiento, reason will do the work.
+
+	- Justice: Liberties and opportunities, income and wealth, and what he refers to as the social bases of self-respect, should be distributed equally unless an unequal distribution of any, or all of them works to everybody's advantage
+
+	
